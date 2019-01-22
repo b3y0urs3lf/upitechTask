@@ -72,4 +72,8 @@ Test missing:
    as described here - https://codeception.com/docs/12-ParallelExecution.
    Another option would be to use service as - https://www.browserstack.com/automate/codeception.
    
+### Test files location
 
+Test itself located `tests/acceptance/UpiTech/opusOnlineCest.php` 
+, classes that extend it located `tests/_support/Page/UpiTech`. 
+Configuration file located `tests/acceptance.suite.yml`.
