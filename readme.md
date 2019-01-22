@@ -32,18 +32,18 @@ Next steps that you need to do before run test:
    This is needed in order to make test work with **firefox**, more details can be found here - https://github.com/facebook/php-webdriver/issues/469
    5. Put **ChromeDriver**, **GeckoDriver** and **Selenium Standalone Server** in project folder
    
-###Running the tests
+### Running the tests
 
 How to run the automation test:
 
    1. Form terminal go to directory where **Selenium Standalone Server** 
    located, and start it like this
-   `java -jar selenium-server-standalone-3.1459.jar` 
+   `java -jar selenium-server-standalone-3.14.59.jar` 
    2. From different terminal go to project directory 
    and start test `vendor/bin/codecept run --env chrome --env firefox --debug --html`
 
 
-###Result
+### Result
 
 Test doing following:
  1. User navigates to www.google.com website
