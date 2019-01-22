@@ -1,0 +1,15 @@
+{
+  "searchPage" : {
+    "link": "http://www.google.com/webhp?hl=en",
+    "searchValue": "Opus Online"
+  },
+  "resultPage" : {
+    "heading": "Opus Online",
+    "fullAddress": "Pärnu maantee 139c, 11317 Tallinn",
+    "phone": "+44 20 7205 2170",
+    "companyWebPage": "https://opusonline.co/"
+  },
+  "companyPage": {
+    "slogan" : "Opus is an award-winning custom software development company focusing on end-to-end solutions and digital transformation"
+  }
+}
